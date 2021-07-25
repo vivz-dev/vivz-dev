@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi everyone! 😃💻
 
-<!--
-**vivianavf/vivianavf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![to Viviana Vera's GitHub profile](https://user-images.githubusercontent.com/33163800/126901109-903068ea-e4be-4117-8051-b1b34706583c.png)
 
-Here are some ideas to get you started:
+## My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please, let me know if you want to collaborate with some of my repositories, also If you need help you can also ask.
+
+## Here's my contact media:
+
+![Linkedin-símbolo](https://user-images.githubusercontent.com/33163800/126901197-54561199-3e19-4832-8d74-e8ac04e82c40.png)
+
+Or you can also send me a DM 🗳
+
