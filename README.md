@@ -1,32 +1,23 @@
-### Hi everyone! 😃💻
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 ![to Viviana Vera's GitHub profile](https://user-images.githubusercontent.com/33163800/126901109-903068ea-e4be-4117-8051-b1b34706583c.png)
 
+
 ## My Tech Stack
 
-![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen})
-<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" /> 
 
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
 
-https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[![Viviana's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivianavf&theme=blue-green)](https://github.com/vivianavf/github-readme-stats)
 
-https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 
-https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+## My contact media:
 
 
 
-Please, let me know if you want to collaborate with some of my repositories, also If you need help you can also ask.
-
-## Here's my contact media:
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white
-
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<a href="https://www.linkedin.com/in/vivianavera03/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 
-Or you can also send me a DM 🗳
-
+Please, let me know if you want to collaborate with some of my repositories, also If you need help feel free to ask. Have a good programming.
