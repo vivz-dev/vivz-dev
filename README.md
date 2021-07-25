@@ -1,4 +1,10 @@
+<a href="https://www.linkedin.com/in/vivianavera03/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+
+
 
 ![to Viviana Vera's GitHub profile](https://user-images.githubusercontent.com/33163800/126901109-903068ea-e4be-4117-8051-b1b34706583c.png)
 
@@ -10,14 +16,6 @@
 
 [![Viviana's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivianavf&theme=blue-green)](https://github.com/vivianavf/github-readme-stats)
 
-
-## My contact media:
-
-
-
-<a href="https://www.linkedin.com/in/vivianavera03/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 
 Please, let me know if you want to collaborate with some of my repositories, also If you need help feel free to ask. Have a good programming.
