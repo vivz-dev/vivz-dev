@@ -8,8 +8,9 @@
 ## CodeWarrior
 ![alt text](https://www.codewars.com/users/vivianavf/badges/large)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivianavf)](https://github.com/vivianavf/github-readme-stats)
+![Viviana's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivianavf)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianavf&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
 <!--
