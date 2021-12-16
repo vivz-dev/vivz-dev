@@ -8,7 +8,8 @@
 ## CodeWarrior
 ![alt text](https://www.codewars.com/users/vivianavf/badges/large)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivianavf&layout=compact)](https://github.com/vivianavf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivianavf)](https://github.com/vivianavf/github-readme-stats)
+
 
 
 <!--
@@ -18,7 +19,6 @@
 
 ## Portfolios
 
-I also love Graphic Design and UX/UI! Feel free to visit my Behance & Figma Portfolios:
 
 <a href="https://www.behance.net/vivianaverafa">
 <img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/>
