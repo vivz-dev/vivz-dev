@@ -18,6 +18,10 @@
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </a> -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivz-dev&hide_progress=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vivz-dev)](https://git.io/streak-stats)
+
 ## Let's Connect 
 
 <a href="https://www.linkedin.com/in/vivianavera03/">
